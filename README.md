@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakisara01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakisara01&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakisara01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
