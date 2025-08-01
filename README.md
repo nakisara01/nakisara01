@@ -1,10 +1,11 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=heum...interesting!&fontSize=85&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=Heum...interesting!&fontSize=85&fontColor=ffffff)
 ## 📞 Contact 📞   
 <a href="https://www.instagram.com/n_joid/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/현흠-나-441a91262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.notion.so/c55d560632e048d6884a0fc8a96ebe9b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://velog.io/@nakisara01/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## 💻 Tech Stack 💻   
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
